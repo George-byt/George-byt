@@ -27,7 +27,7 @@
 </a>
 </div>
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/George-byt/George-byt/blob/main/Gifs/Handshake.gif?raw=true" height="33px" /></h3> 
+  <h3 align="center">Contact me<img align="center" src="https://github.com/George-byt/George-byt/blob/main/Gifs/Handshake.gif?raw=true" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/jorge-armando-morales-valencia-64b6931b7/" target="blank">
