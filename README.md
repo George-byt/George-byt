@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h2 align="center">
+    My contributions to open-source:
+</h2>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=George-byt&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
+</p> 
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/George-byt/George-byt/blob/main/Gifs/Handshake.gif?raw=true" height="33px" /></h3> 
 </div>
