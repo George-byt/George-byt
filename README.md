@@ -1,5 +1,19 @@
 ### Hi there 👋
 <h2 align="center">
+  Here are some technologies I use at work:
+</h2>
+<p align="center">
+<code><img height="75" src="https://github.com/George-byt/George-byt/blob/main/PNG/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/George-byt/George-byt/blob/main/PNG/css.png"></code>
+<code><img height="75" src="https://github.com/George-byt/George-byt/blob/main/PNG/js.png"></code> &nbsp;&nbsp;
+</p>
+<p align="center">
+<code><img height="75" src="https://github.com/George-byt/George-byt/blob/main/PNG/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/George-byt/George-byt/blob/main/PNG/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/George-byt/George-byt/blob/main/PNG/vue.png"></code>
+</p>
+
+<h2 align="center">
     My contributions to open-source:
 </h2>
 
