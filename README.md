@@ -1,4 +1,4 @@
-<h1 align="center"> Hey <img src="https://github.com/George-byt/George-byt/blob/main/Gifs/Hi.gif" width="40px">, I'm Jorge Armando Morales Valencia </h1>
+<h1 align="center"> Hello <img src="https://github.com/George-byt/George-byt/blob/main/Gifs/Hi.gif" width="40px">, Thanks for being here.</h1>
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
