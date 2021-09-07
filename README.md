@@ -17,10 +17,15 @@
     My contributions to open-source:
 </h2>
 
-<p align="center">
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=George-byt&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
-</p> 
-
+</div>
+<br/>
+<div align="center">
+<a href="https://github.com/SergioO21">
+  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-byt&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true&langs_count=8"/>
+</a>
+</div>
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/George-byt/George-byt/blob/main/Gifs/Handshake.gif?raw=true" height="33px" /></h3> 
 </div>
