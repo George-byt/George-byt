@@ -1,4 +1,5 @@
 <h1 align="center"> Hey <img src="https://github.com/George-byt/George-byt/blob/main/Gifs/Hi.gif" width="40px">, I'm Jorge Armando Morales Valencia </h1>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
