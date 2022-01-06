@@ -27,7 +27,7 @@ My contributions to open-source:
 <br/>
 
 <div align="center">
-<a href="https://github.com/SergioO21">
+<a href="https://github.com/George-byt">
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-byt&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true&langs_count=8"/>
 </a>
 </div>
